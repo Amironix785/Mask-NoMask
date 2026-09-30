@@ -51,6 +51,8 @@ Mask-or-No-Mask/
 ├── mask.zip
 │
 └── Test Images
+│
+└── Images(For Train)
 ```
 
 ### `main.py`
